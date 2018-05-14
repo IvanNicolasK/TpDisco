@@ -75,7 +75,7 @@ public boolean condicionSubasta(Integer oferta,boolean condicion) {
    			return condicion;
    		}
    	
-   	}
+ /bebi/  	}
 
 */
 
